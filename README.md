@@ -45,9 +45,9 @@ The dashboard helps stakeholders monitor monthly trends for the given years and 
 ## 5) Project Structure
 
 ```
-├── data/         # Raw dataset   
-├── visuals/      # Dashboard screenshots  
-├── reports/      # Documentation & insights  
+├── data         # Raw dataset   
+├── visuals      # Dashboard screenshots and Demo Vedio 
+├── reports      # Documentation & insights  
 ```
 
 ---
