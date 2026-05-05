@@ -7,12 +7,7 @@ This project focuses on analyzing hospital emergency room operations. The goal i
 
 The dashboard helps stakeholders monitor monthly trends for the given years and identify operational gaps and inefficient services delivery in emergency care.
 
-To handle this :
-* Analyze patient inflow trends
-* Evaluate waiting time and service delays
-* Understand admission patterns
-* Provide actionable recommendations to improve efficiency
-
+![ER Dashboard](https://raw.githubusercontent.com/Sakshi-1807mrk/Hospital-Emergency-Room-Analysis/main/HealthCare%20ER%20Dashboard.png)
 ---
 
 ## 1) Dataset
